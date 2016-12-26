@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyTask</string>
+    <string name="FirstName">Enter First Name</string>
+    <string name="LastName">Enter Last Name</string>
+    <string name="RollNo">Enter Roll No</string>
+    <string name="City">Enter City Name</string>
+    <string name="Gender">Select Gender</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="btnSaveActivity2">Save</string>
+    <string name="btnFirstActivity1">Next</string>
+    <string name="Next1">Next</string>
+    <string name="Update">Update</string>
+    <string name="Delete">Delete</string>
+    <string name="Retrive">Retrive</string>
+    <string-array name="cities">
+        <item>Ahmedabad</item>
+        <item>Surat</item>
+        <item>Bhavnagar</item>
+        <item>Rajkot</item>
+        <item>Baroda</item>
+    </string-array>
+
+
+</resources>
